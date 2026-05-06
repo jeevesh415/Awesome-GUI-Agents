@@ -13,6 +13,8 @@ A curated list for **GUI Agents**
 ![Alt text](figures/overview.png)
 
 ## 🚀 [Updates](#updates) 
+* We are actively looking for internship and full-time position opportunities (fall recruitment cycle), specializing in Agentic RL, GUI Agent, Web Agent, and related fields. **Feel free to contact us at: flysugar@zju.edu.cn**
+
 * We released our new paper on GUI Automation & GUI Grounding:
    - [UI-Copilot: Advancing Long-Horizon GUI Automation via Tool-Integrated Policy Optimization](https://arxiv.org/pdf/2604.13822)
    - [UI-Zoomer: Uncertainty-Driven Adaptive Zoom-In for GUI Grounding](https://arxiv.org/pdf/2604.14113)
