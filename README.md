@@ -376,6 +376,7 @@ Watch and Learn: Learning to Use Computers from Online Videos
 18、AdaZoom-GUI: Adaptive Zoom-based GUI Grounding with Instruction Refinement
 
 ### Prune
+2026-5-06: A11y-Compressor: A Framework for Enhancing the Efficiency of GUI Agent Observations through Visual Context Reconstruction and Redundancy Reduction
 
 2026-2-07: Spatio-Temporal Token Pruning for Efficient High-Resolution GUI Agents
 
@@ -386,6 +387,8 @@ Watch and Learn: Learning to Use Computers from Online Videos
 2025-10-01: GUI-KV: EFFICIENT GUI AGENTS VIA KV CACHE WITH SPATIO-TEMPORAL AWARENESS
 
 ### R1-Style GUI Agents
+2026-5-06: Faithful Mobile GUI Agents with Guided Advantage Estimator
+
 2026-4-16: UI-Copilot: Advancing Long-Horizon GUI Automation via Tool-Integrated Policy Optimization
 
 2026-04-08: Don’t Act Blindly: Robust GUI Automation via Action-EffectVerification and Self-Correctio
