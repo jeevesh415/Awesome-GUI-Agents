@@ -181,6 +181,8 @@ Phi-Ground Tech Report: Advancing Perception in GUI Grounding
 1、MolmoWeb: Open Visual Web Agent and Open Data for the Open Web
 
 ### On-Policy distillation for GUI Agents
+2026-05-11: LiteGUI: Distilling Compact GUI Agents with Reinforcement Learning
+
 2026-05-01: Learn where to Click from Yourself: On-Policy Self-Distillation for GUI Grounding
 
 2026-03-26: UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience
