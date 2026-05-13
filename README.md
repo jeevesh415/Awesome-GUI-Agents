@@ -377,6 +377,8 @@ Watch and Learn: Learning to Use Computers from Online Videos
 
 18、AdaZoom-GUI: Adaptive Zoom-based GUI Grounding with Instruction Refinement
 
+19、BAMI: Training-Free Bias Mitigation in GUI Grounding
+
 ### Prune
 2026-5-06: A11y-Compressor: A Framework for Enhancing the Efficiency of GUI Agent Observations through Visual Context Reconstruction and Redundancy Reduction
 
