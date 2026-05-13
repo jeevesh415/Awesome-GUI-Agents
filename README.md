@@ -174,6 +174,9 @@ Phi-Ground Tech Report: Advancing Perception in GUI Grounding
 
 [UI-TARS: Pioneering Automated GUI Interaction with Native Agents](https://arxiv.org/abs/2501.12326)
 
+### Computer-use Agents
+1、ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents (TongYi)
+
 ### Opensource Data 
 1、MolmoWeb: Open Visual Web Agent and Open Data for the Open Web
 
